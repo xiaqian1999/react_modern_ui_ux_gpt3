@@ -1,6 +1,10 @@
 # GPT-3
 
 ### Fully Responsive Mobile Friendly Modern UI UX Web Page
+![Home Page](https://github.com/user-attachments/assets/4a006a15-147b-485e-9226-0699306fc7a9)
+<img width="489" alt="Mobile View" src="https://github.com/user-attachments/assets/3a1e7304-73d1-4d2a-961a-a1839413a98e">
+
+
 
 ### Language use:
 
